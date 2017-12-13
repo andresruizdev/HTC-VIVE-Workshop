@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: 6c2dbe8b03320924b9577e9b08bce584
+timeCreated: 1513194842
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: balance
+    100002: button1
+    100004: button2
+    100006: button3
+    100008: button4
+    100010: cristal_wall
+    100012: Door1
+    100014: Door2
+    100016: door_panel1
+    100018: door_panel2
+    100020: droop1
+    100022: droop2
+    100024: droop_light1
+    100026: droop_light2
+    100028: droop_light3
+    100030: droop_light4
+    100032: //RootNode
+    100034: floor
+    100036: lamp1
+    100038: lamp2
+    100040: roof1
+    100042: roof2
+    100044: screen
+    100046: stick1
+    100048: stick2
+    100050: stick3
+    100052: stick4
+    100054: walls
+    400000: balance
+    400002: button1
+    400004: button2
+    400006: button3
+    400008: button4
+    400010: cristal_wall
+    400012: Door1
+    400014: Door2
+    400016: door_panel1
+    400018: door_panel2
+    400020: droop1
+    400022: droop2
+    400024: droop_light1
+    400026: droop_light2
+    400028: droop_light3
+    400030: droop_light4
+    400032: //RootNode
+    400034: floor
+    400036: lamp1
+    400038: lamp2
+    400040: roof1
+    400042: roof2
+    400044: screen
+    400046: stick1
+    400048: stick2
+    400050: stick3
+    400052: stick4
+    400054: walls
+    2300000: balance
+    2300002: button1
+    2300004: button2
+    2300006: button3
+    2300008: button4
+    2300010: cristal_wall
+    2300012: Door1
+    2300014: Door2
+    2300016: door_panel1
+    2300018: door_panel2
+    2300020: droop1
+    2300022: droop2
+    2300024: droop_light1
+    2300026: droop_light2
+    2300028: droop_light3
+    2300030: droop_light4
+    2300032: floor
+    2300034: lamp1
+    2300036: lamp2
+    2300038: roof1
+    2300040: roof2
+    2300042: screen
+    2300044: stick1
+    2300046: stick2
+    2300048: stick3
+    2300050: stick4
+    2300052: walls
+    3300000: balance
+    3300002: button1
+    3300004: button2
+    3300006: button3
+    3300008: button4
+    3300010: cristal_wall
+    3300012: Door1
+    3300014: Door2
+    3300016: door_panel1
+    3300018: door_panel2
+    3300020: droop1
+    3300022: droop2
+    3300024: droop_light1
+    3300026: droop_light2
+    3300028: droop_light3
+    3300030: droop_light4
+    3300032: floor
+    3300034: lamp1
+    3300036: lamp2
+    3300038: roof1
+    3300040: roof2
+    3300042: screen
+    3300044: stick1
+    3300046: stick2
+    3300048: stick3
+    3300050: stick4
+    3300052: walls
+    4300000: floor
+    4300002: screen
+    4300004: Door1
+    4300006: Door2
+    4300008: droop1
+    4300010: droop2
+    4300012: lamp1
+    4300014: lamp2
+    4300016: droop_light2
+    4300018: droop_light1
+    4300020: droop_light4
+    4300022: droop_light3
+    4300024: balance
+    4300026: cristal_wall
+    4300028: walls
+    4300030: stick2
+    4300032: button2
+    4300034: button1
+    4300036: stick1
+    4300038: button3
+    4300040: stick3
+    4300042: button4
+    4300044: stick4
+    4300046: roof2
+    4300048: roof1
+    4300050: door_panel1
+    4300052: door_panel2
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _initialShadingGroup1
+    second: {fileID: 2100000, guid: 2d34fd30ae80e734f837696e5bb5c6da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _lambert2SG1
+    second: {fileID: 2100000, guid: 50e6fee74e359ca46a75f454291b0da2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: 6f838a35b126fc549a093746b5d5883a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
